@@ -1,7 +1,14 @@
+# require_relative "../example.rb"
 # Code examples would be provided here
 #
 #
 #
+def test_method
+   "bears"
+end
+
+
+
 
 # a couple of simple examples of excess code
 def example(first_name, last_name)
